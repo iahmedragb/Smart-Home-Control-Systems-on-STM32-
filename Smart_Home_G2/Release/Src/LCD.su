@@ -1,0 +1,10 @@
+../Src/LCD.c:210:13:LCD_enuLatch	8	static
+../Src/LCD.c:22:6:LCD_enuInit	8	static
+../Src/LCD.c:77:6:LCD_enuWriteCommand	8	static
+../Src/LCD.c:84:6:LCD_enuWriteData	8	static
+../Src/LCD.c:91:6:LCD_enuWriteString	16	static
+../Src/LCD.c:107:6:LCD_enuWriteIntegerNum	16	static
+../Src/LCD.c:142:6:LCD_enuWriteFloatNum	16	static
+../Src/LCD.c:167:6:LCD_enuGoToPosition	0	static
+../Src/LCD.c:192:6:LCD_enuCharacterGenerator	16	static
+../Src/LCD.c:255:6:LCD_enuStopWatch	16	static

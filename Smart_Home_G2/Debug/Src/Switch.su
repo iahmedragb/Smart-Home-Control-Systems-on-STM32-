@@ -1,0 +1,2 @@
+../Src/Switch.c:20:6:Switch_Init	24	static
+../Src/Switch.c:29:4:Switch_Read	24	static

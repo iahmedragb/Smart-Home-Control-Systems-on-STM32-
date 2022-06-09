@@ -1,0 +1,5 @@
+../Src/UART.c:25:6:UART6_vInit	4	static
+../Src/UART.c:45:6:UART6_Callback	16	static
+../Src/UART.c:49:4:UART6_vSendReceive	24	static
+../Src/UART.c:62:4:UART6_vReceive	16	static
+../Src/UART.c:72:6:USART6_IRQHandler	4	static

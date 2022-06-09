@@ -1,0 +1,6 @@
+../Src/ADC.c:32:6:ADC_Init	0	static
+../Src/ADC.c:43:6:ADC_AdjustValue	0	static
+../Src/ADC.c:57:6:ADC_Start	0	static
+../Src/ADC.c:62:6:ADC_Stop	0	static
+../Src/ADC.c:66:5:ADC_Read	0	static
+../Src/ADC.c:76:6:ADC_IRQHandler	16	static

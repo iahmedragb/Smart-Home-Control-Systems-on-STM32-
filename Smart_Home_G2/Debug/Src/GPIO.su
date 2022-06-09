@@ -1,0 +1,9 @@
+../Src/GPIO.c:27:6:GPIO_vSetMode	16	static
+../Src/GPIO.c:57:6:GPIO_vSetType	16	static
+../Src/GPIO.c:79:6:GPIO_vSetSpeed	16	static
+../Src/GPIO.c:102:6:GPIO_vSetPullUpPullDown	16	static
+../Src/GPIO.c:124:6:GPIO_vSetAlternateFunction	16	static
+../Src/GPIO.c:182:6:GPIO_vWritePinValue	16	static
+../Src/GPIO.c:225:6:GPIO_vGetPinValue	16	static
+../Src/GPIO.c:246:6:GPIO_vLockPin	16	static
+../Src/GPIO.c:250:6:GPIO_vTogglePinValue	16	static

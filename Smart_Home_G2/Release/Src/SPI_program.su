@@ -1,0 +1,4 @@
+../Src/SPI_program.c:19:7:MSPI_VidInit	0	static
+../Src/SPI_program.c:105:7:SPI_voidInitHardCode	0	static
+../Src/SPI_program.c:112:7:MSPI1_voidSendReceiveSynch	0	static
+../Src/SPI_program.c:123:7:MSPI1_voidInitForTFT	0	static

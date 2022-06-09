@@ -1,0 +1,6 @@
+../Src/EXTI.c:27:6:EXTI_vEnableLine	8	static
+../Src/EXTI.c:51:6:EXTI_vDisableLine	0	static
+../Src/EXTI.c:64:6:EXTI_vSoftwareInterruptEvent	0	static
+../Src/EXTI.c:77:6:EXTI_vCallBack	0	static
+../Src/EXTI.c:91:6:EXTI0_IRQHandler	0	static
+../Src/EXTI.c:109:6:EXTI1_IRQHandler	0	static

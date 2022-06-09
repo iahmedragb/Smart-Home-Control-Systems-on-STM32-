@@ -1,0 +1,5 @@
+../Src/RCC.c:35:6:RCC_vInitSystemCLK	0	static
+../Src/RCC.c:86:6:RCC_vEnableClock	0	static
+../Src/RCC.c:104:6:RCC_vDisableClock	0	static
+../Src/RCC.c:120:6:RCC_vEnableSecuritySystem	0	static
+../Src/RCC.c:126:6:RCC_vDisableSecuritySystem	0	static

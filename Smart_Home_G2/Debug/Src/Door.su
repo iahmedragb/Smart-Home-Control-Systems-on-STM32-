@@ -1,0 +1,3 @@
+../Src/Door.c:25:6:Door_Init	8	static
+../Src/Door.c:30:6:Door_Control	16	static
+../Src/Door.c:35:6:pwm	8	static

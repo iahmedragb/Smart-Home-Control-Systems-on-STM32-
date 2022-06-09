@@ -1,0 +1,5 @@
+../Src/AC.c:49:6:AC_On	0	static
+../Src/AC.c:54:6:AC_Off	0	static
+../Src/AC.c:30:6:AC_Init	8	static
+../Src/AC.c:60:6:AC_AdjustTemperature	0	static
+../Src/AC.c:65:5:AC_TempRead	8	static

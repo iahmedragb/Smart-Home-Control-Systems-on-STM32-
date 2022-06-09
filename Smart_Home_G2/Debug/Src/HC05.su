@@ -1,0 +1,4 @@
+../Src/HC05.c:30:6:HC05_Init	8	static
+../Src/HC05.c:43:6:HC05_SetInputReading	16	static
+../Src/HC05.c:47:4:HC05_SendReceive	24	static
+../Src/HC05.c:53:4:HC05_Receive	16	static
